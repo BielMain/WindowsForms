@@ -1,0 +1,30 @@
+C:\Users\joão pedro\Desktop\Trabalho\TrocadeValores\TrocaValores\bin\Debug\netcoreapp3.1\TrocaValores.exe
+C:\Users\joão pedro\Desktop\Trabalho\TrocadeValores\TrocaValores\bin\Debug\netcoreapp3.1\TrocaValores.deps.json
+C:\Users\joão pedro\Desktop\Trabalho\TrocadeValores\TrocaValores\bin\Debug\netcoreapp3.1\TrocaValores.runtimeconfig.json
+C:\Users\joão pedro\Desktop\Trabalho\TrocadeValores\TrocaValores\bin\Debug\netcoreapp3.1\TrocaValores.runtimeconfig.dev.json
+C:\Users\joão pedro\Desktop\Trabalho\TrocadeValores\TrocaValores\bin\Debug\netcoreapp3.1\TrocaValores.dll
+C:\Users\joão pedro\Desktop\Trabalho\TrocadeValores\TrocaValores\bin\Debug\netcoreapp3.1\TrocaValores.pdb
+C:\Users\joão pedro\Desktop\Trabalho\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.csprojAssemblyReference.cache
+C:\Users\joão pedro\Desktop\Trabalho\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.Form1.resources
+C:\Users\joão pedro\Desktop\Trabalho\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.csproj.GenerateResource.cache
+C:\Users\joão pedro\Desktop\Trabalho\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.AssemblyInfoInputs.cache
+C:\Users\joão pedro\Desktop\Trabalho\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.AssemblyInfo.cs
+C:\Users\joão pedro\Desktop\Trabalho\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.csproj.CoreCompileInputs.cache
+C:\Users\joão pedro\Desktop\Trabalho\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.dll
+C:\Users\joão pedro\Desktop\Trabalho\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.pdb
+C:\Users\joão pedro\Desktop\Trabalho\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.genruntimeconfig.cache
+C:\Users\Seth7\Desktop\Programação\TrocadeValores\TrocaValores\bin\Debug\netcoreapp3.1\TrocaValores.exe
+C:\Users\Seth7\Desktop\Programação\TrocadeValores\TrocaValores\bin\Debug\netcoreapp3.1\TrocaValores.deps.json
+C:\Users\Seth7\Desktop\Programação\TrocadeValores\TrocaValores\bin\Debug\netcoreapp3.1\TrocaValores.runtimeconfig.json
+C:\Users\Seth7\Desktop\Programação\TrocadeValores\TrocaValores\bin\Debug\netcoreapp3.1\TrocaValores.runtimeconfig.dev.json
+C:\Users\Seth7\Desktop\Programação\TrocadeValores\TrocaValores\bin\Debug\netcoreapp3.1\TrocaValores.dll
+C:\Users\Seth7\Desktop\Programação\TrocadeValores\TrocaValores\bin\Debug\netcoreapp3.1\TrocaValores.pdb
+C:\Users\Seth7\Desktop\Programação\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.csprojAssemblyReference.cache
+C:\Users\Seth7\Desktop\Programação\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.Form1.resources
+C:\Users\Seth7\Desktop\Programação\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.csproj.GenerateResource.cache
+C:\Users\Seth7\Desktop\Programação\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.AssemblyInfoInputs.cache
+C:\Users\Seth7\Desktop\Programação\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.AssemblyInfo.cs
+C:\Users\Seth7\Desktop\Programação\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.csproj.CoreCompileInputs.cache
+C:\Users\Seth7\Desktop\Programação\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.dll
+C:\Users\Seth7\Desktop\Programação\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.pdb
+C:\Users\Seth7\Desktop\Programação\TrocadeValores\TrocaValores\obj\Debug\netcoreapp3.1\TrocaValores.genruntimeconfig.cache
